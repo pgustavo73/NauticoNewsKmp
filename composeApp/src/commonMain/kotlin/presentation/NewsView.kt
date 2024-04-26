@@ -34,7 +34,7 @@ fun NewView(viewModel: NewsViewModel = koinInject()) {
                 modifier = Modifier
                     .width(70.dp)
                     .align(Alignment.Center),
-                color = AppColors.primary
+                color = AppColors.greenSuperLight
             )
         } else {
             LazyColumn(modifier = Modifier.fillMaxSize()) {
