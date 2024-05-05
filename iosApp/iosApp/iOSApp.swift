@@ -5,7 +5,7 @@ import ComposeApp
 struct iOSApp: App {
 
     init(){
-        MainViewController.doInitKoin()
+        MainViewControllerKt.doInitKoin()
     }
 
 
