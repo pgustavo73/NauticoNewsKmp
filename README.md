@@ -15,4 +15,4 @@ I simulate an API behavior by a github pages who is concumed by app using ktor. 
 
 ### Status: Completed
 
-Learn more about [Kotlin Multiplatform](https://www.jetbrains.com/help/kotlin-multiplatform-dev/get-started.html)…<img src="./image/telas.jpg">
+Learn more about [Kotlin Multiplatform](https://www.jetbrains.com/help/kotlin-multiplatform-dev/get-started.html)…
